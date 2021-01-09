@@ -7,4 +7,4 @@ Tech Stack: HTML/CSS & JavaScript & Visual Studio Code IDE, Date: May 2020, Coll
 Three Rivers Community College, Spring Semester 2020
 
 
-1. Start by opening 'main.html' and selecting "Log In" to navigate to the rest of the app
+1. Start by opening 'main.html' and selecting "Log In" to navigate through the app
